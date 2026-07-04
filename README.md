@@ -1,3 +1,5 @@
+### 🟢 Available for Freelance AI Development
+
 # Hasan Özay Yılmaz
 
 Software engineer building real-time data pipelines, AI/LLM-integrated systems, and applied ML products — from OSINT-style intelligence aggregation to desktop ML applications.
