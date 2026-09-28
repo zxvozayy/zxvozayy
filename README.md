@@ -29,7 +29,7 @@ Software engineer building real-time data pipelines, LLM-integrated systems, and
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| [**perspectome**](https://github.com/zxvozayy/perspectome) | Decision-support platform: 2,400+ synthetic personas calibrated against real World Values Survey data, a 3-round simulation engine with live streaming, a research agent, and measured calibration error against held-out survey answers | Next.js · TypeScript · Postgres/pgvector · OpenAI |
+| [**perspectome**](https://github.com/zxvozayy/perspective) | Decision-support platform: 2,400+ synthetic personas calibrated against real World Values Survey data, a 3-round simulation engine with live streaming, a research agent, and measured calibration error against held-out survey answers | Next.js · TypeScript · Postgres/pgvector · OpenAI |
 | [**tabwise**](https://github.com/zxvozayy/tabwise) | AI Chrome extension **live on the Web Store** with a working end-to-end paid subscription flow — checkout, signed webhooks, entitlement checks, tiered rate limits | Manifest V3 · Cloudflare Workers · Supabase · Lemon Squeezy |
 | [**global-incident-monitor**](https://github.com/zxvozayy/global-incident-monitor) | Real-time OSINT pipeline: 338 multilingual news sources, a two-tier keyword + LLM classification gate, cross-language incident clustering, RAG search, geospatial map, 180+ passing tests | Node.js · Express · SQLite · OpenAI/Groq · Docker |
 | [**ai-language-tutor**](https://github.com/zxvozayy/ai-language-tutor) | Desktop AI tutor: LLM conversation with inline grammar correction, Azure speech recognition + pronunciation scoring, CEFR placement testing, XP/streak progression | Python · PySide6 · Groq/Gemini · Supabase · Azure Speech |
